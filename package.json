@@ -19,6 +19,6 @@
   "homepage": "https://github.com/shenchao890216/scs#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
